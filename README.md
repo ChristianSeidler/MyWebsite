@@ -8,4 +8,4 @@
 ## How to run jekyll
  - Open cmd
  - Navigate to the website directory
- - type "jekyll serve"
+ - type "bundle exec jekyll serve"
