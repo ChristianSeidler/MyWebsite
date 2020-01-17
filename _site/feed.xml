@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-17T12:39:14+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Christian SpaceCat</title><subtitle>Christian's website</subtitle><author><name>Thomas Se</name></author><entry><title type="html">Elektronische Tanzmusik</title><link href="http://localhost:4000/edm/EDM.html" rel="alternate" type="text/html" title="Elektronische Tanzmusik" /><published>2020-01-01T00:00:00+01:00</published><updated>2020-01-01T00:00:00+01:00</updated><id>http://localhost:4000/edm/EDM</id><content type="html" xml:base="http://localhost:4000/edm/EDM.html">&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Lorem_ipsum&quot;&gt;Lorem ipsum&lt;/a&gt; dolor sit amet, consectetuer adipiscing elit. 
+Aenean commodo ligula eget dolor. 
+Aenean massa.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.&lt;/p&gt;
+
+&lt;p&gt;Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. 
+In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. 
+Nullam dictum felis eu pede mollis pretium. 
+Integer tincidunt. 
+Cras dapibus.&lt;/p&gt;
+
+&lt;p&gt;Vivamus elementum semper nisi. 
+Aenean vulputate eleifend tellus. 
+Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
+Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. 
+Phasellus viverra nulla ut metus varius laoreet. 
+Quisque rutrum. 
+Aenean imperdiet.&lt;/p&gt;
+
+&lt;p&gt;Etiam ultricies nisi vel augue. 
+Curabitur ullamcorper ultricies nisi. 
+Nam eget dui. 
+Etiam rhoncus. 
+Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
+Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. 
+Maecenas nec odio et ante tincidunt tempus.&lt;/p&gt;
+
+&lt;p&gt;Donec vitae sapien ut libero venenatis faucibus. 
+Nullam quis ante. 
+Etiam sit amet orci eget eros faucibus tincidunt. 
+Duis leo. 
+Sed fringilla mauris sit amet nibh. 
+Donec sodales sagittis magna.&lt;/p&gt;</content><author><name>Thomas Se</name></author><summary type="html">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/EDM-1.jpg" /></entry><entry><title type="html">About the Author</title><link href="http://localhost:4000/resources/about-the-author.html" rel="alternate" type="text/html" title="About the Author" /><published>2020-01-01T00:00:00+01:00</published><updated>2020-01-01T00:00:00+01:00</updated><id>http://localhost:4000/resources/about-the-author</id><content type="html" xml:base="http://localhost:4000/resources/about-the-author.html">&lt;p&gt;I am the eggman. Your are the eggman. I am the walrus, gu gu ga chu.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/D1jVie2fzog&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;</content><author><name>Thomas Se</name></author><summary type="html">I am the eggman. Your are the eggman. I am the walrus, gu gu ga chu.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/Jazz-3.JPG" /></entry><entry><title type="html">Chor</title><link href="http://localhost:4000/choir/choir.html" rel="alternate" type="text/html" title="Chor" /><published>2020-01-01T00:00:00+01:00</published><updated>2020-01-01T00:00:00+01:00</updated><id>http://localhost:4000/choir/choir</id><content type="html" xml:base="http://localhost:4000/choir/choir.html">&lt;p&gt;Es gibt Chöre.&lt;/p&gt;</content><author><name>Thomas Se</name></author><category term="choir" /><summary type="html">Es gibt Chöre.</summary></entry><entry><title type="html">Alte Musik - Historische Aufführungspraxis</title><link href="http://localhost:4000/old-music/old-music.html" rel="alternate" type="text/html" title="Alte Musik - Historische Aufführungspraxis" /><published>2020-01-01T00:00:00+01:00</published><updated>2020-01-01T00:00:00+01:00</updated><id>http://localhost:4000/old-music/old-music</id><content type="html" xml:base="http://localhost:4000/old-music/old-music.html">&lt;p&gt;Kann &lt;a href=&quot;https://de.wikipedia.org/wiki/Historische_Auff%C3%BChrungspraxis&quot;&gt;hier&lt;/a&gt; nachgelesen werden.&lt;/p&gt;</content><author><name>Thomas Se</name></author><summary type="html">Kann hier nachgelesen werden.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/Organist-2.jpg" /></entry></feed>

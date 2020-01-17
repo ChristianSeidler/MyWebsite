@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Christian SpaceCat</title>
+		<description>Christian's website</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Alte Musik - Historische Aufführungspraxis</title>
+				
+					<dc:creator>Thomas Se</dc:creator>
+				
+				
+					<description>&lt;p&gt;Kann &lt;a href=&quot;https://de.wikipedia.org/wiki/Historische_Auff%C3%BChrungspraxis&quot;&gt;hier&lt;/a&gt; nachgelesen werden.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/old-music/old-music.html</link>
+				<guid isPermaLink="true">http://localhost:4000/old-music/old-music.html</guid>
+			</item>
+		
+			<item>
+				<title>Chor</title>
+				
+				
+					<description>&lt;p&gt;Es gibt Chöre.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/choir/choir.html</link>
+				<guid isPermaLink="true">http://localhost:4000/choir/choir.html</guid>
+			</item>
+		
+			<item>
+				<title>About the Author</title>
+				
+					<dc:creator>Thomas Se</dc:creator>
+				
+				
+					<description>&lt;p&gt;I am the eggman. Your are the eggman. I am the walrus, gu gu ga chu.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/resources/about-the-author.html</link>
+				<guid isPermaLink="true">http://localhost:4000/resources/about-the-author.html</guid>
+			</item>
+		
+			<item>
+				<title>Elektronische Tanzmusik</title>
+				
+					<dc:creator>Thomas Se</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Lorem_ipsum&quot;&gt;Lorem ipsum&lt;/a&gt; dolor sit amet, consectetuer adipiscing elit. 
+Aenean commodo ligula eget dolor. 
+Aenean massa.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/edm/EDM.html</link>
+				<guid isPermaLink="true">http://localhost:4000/edm/EDM.html</guid>
+			</item>
+		
+	</channel>
+</rss>
