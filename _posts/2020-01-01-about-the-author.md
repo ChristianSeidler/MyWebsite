@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Thomas Se"
 categories: resources
 #tags: [sample]
-image: Jazz-3.JPG
+image: Jazz-3_resized.JPG
 ---
 
 I am the eggman. Your are the eggman. I am the walrus, gu gu ga chu.
